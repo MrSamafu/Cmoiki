@@ -1,0 +1,12 @@
+@font-face {
+  font-family: Courgette;
+  src: url(assets/fonts/Courgette-Regular.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  font-family: Courgette;
+}
